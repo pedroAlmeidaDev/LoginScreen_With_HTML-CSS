@@ -5,6 +5,7 @@
 
 body{
     background-color: blueviolet;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 form {
@@ -43,7 +44,7 @@ input{
  }
 
 a{
-    margin: 18px;
+    margin: 15px;
  }
 
   
